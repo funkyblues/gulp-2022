@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/funkyblues/gulp-2022#readme",
   "devDependencies": {
+    "@babel/core": "^7.16.7",
+    "@babel/preset-env": "^7.16.7",
+    "@babel/register": "^7.16.7",
     "gulp": "^4.0.2"
   }
 }
